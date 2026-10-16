@@ -11,3 +11,16 @@ Hasil evaluasi model disimpan di folder `hasil/`:
 - Feature Importance (Faktor paling berpengaruh ke kualitas jaringan)
 
 ### 📁 Struktur Folder
+
+
+### 🧠 Metodologi
+1.  Data Preprocessing & Cleaning
+2.  Exploratory Data Analysis (EDA)
+3.  Train-Test Split
+4.  Model Training dengan Random Forest
+5.  Evaluasi dengan Accuracy, Classification Report, & Confusion Matrix
+
+### 🚀 Cara Menjalankan
+1. Clone repo ini:
+```bash
+git clone https://github.com/Fikri7680/Klasifikasi-kualitas-jaringan-internet.git
